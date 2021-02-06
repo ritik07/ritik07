@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### Hi there, I'm Gil 👋
+### Hi there, I'm Ritik 👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RitikSingatSoni)](https://twitter.com/RitikSingatSoni)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-soni-x007/)](https://www.linkedin.com/in/ritik-soni-x007)
 
@@ -20,7 +20,7 @@
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/fmlddu645fmfbxo6z10moaydusi=fmlddu645fmfbxo6z10moaydu)
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on   [![React Badge](https://aleen42.github.io/badges/src/react.svg&link=https://www.linkedin.com/in/ritik-soni-x007/)]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
