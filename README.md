@@ -19,7 +19,7 @@
 <!--**ritik07/ritik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/fmlddu645fmfbxo6z10moaydusi=fmlddu645fmfbxo6z10moaydu)
 Here are some ideas to get you started:-->
-
+<!--
 - 🔭 I’m currently working on  [![react](https://aleen42.github.io/badges/src/react.svg)](https://aleen42.github.io/badges/src/react.svg)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
